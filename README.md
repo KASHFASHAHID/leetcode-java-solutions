@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
