@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0904-fruit-into-baskets](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
 ## Two Pointers
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
