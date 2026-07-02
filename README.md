@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
@@ -17,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
+| [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
 ## Greedy
@@ -59,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
