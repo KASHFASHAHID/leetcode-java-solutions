@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
