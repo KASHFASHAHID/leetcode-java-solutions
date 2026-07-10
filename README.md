@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0986-interval-list-intersections) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1991-find-the-middle-index-in-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
