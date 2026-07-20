@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0986-interval-list-intersections) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
