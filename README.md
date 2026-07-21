@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [2405-optimal-partition-of-string](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2405-optimal-partition-of-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 | [2405-optimal-partition-of-string](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0986-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
