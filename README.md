@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
+| [0525-contiguous-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [2405-optimal-partition-of-string](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2405-optimal-partition-of-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1991-find-the-middle-index-in-array) |
