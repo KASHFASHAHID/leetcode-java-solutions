@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0525-contiguous-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -158,5 +161,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
