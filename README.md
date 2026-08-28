@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,9 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 <!---LeetCode Topics End-->
