@@ -169,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
