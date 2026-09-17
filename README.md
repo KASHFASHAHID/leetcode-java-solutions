@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3477-fruits-into-baskets-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3477-fruits-into-baskets-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
