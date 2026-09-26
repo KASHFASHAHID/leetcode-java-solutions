@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
