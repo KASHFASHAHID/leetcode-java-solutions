@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0986-interval-list-intersections) |
