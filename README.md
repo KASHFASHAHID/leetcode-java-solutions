@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1672-richest-customer-wealth](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2401-longest-nice-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2401-longest-nice-subarray) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/3477-fruits-into-baskets-ii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
