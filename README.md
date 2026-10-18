@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -209,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/1672-richest-customer-wealth) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
