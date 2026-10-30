@@ -1,26 +1,16 @@
+import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-
-        int left = 0;
-
-        while (left < nums.length - 1) {
-
-            int right = left + 1;
-
-            while (right < nums.length) {
-
-                int sum = nums[left] + nums[right];
-
-                if (sum == target) {
-                    return new int[]{left, right};
-                }
-
-                right++;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i =0; i<nums.length; i++){
+            int needed = target-nums[i];
+            if(map.containsKey(needed)){
+                return new int[]{map.get(needed),i};
             }
-
-            left++;
+            map.put(nums[i],i);
         }
+        return new int[]{-1,-1};
 
-        return new int[]{-1, -1};
+        
     }
 }
