@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0658-find-k-closest-elements) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0645-set-mismatch) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/0383-ransom-note) |
 | [2405-optimal-partition-of-string](https://github.com/KASHFASHAHID/leetcode-java-solutions/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
